@@ -9,6 +9,15 @@ $(function() {
     });
 });
 
+// Shorten the navbar after scrolling a little bit down
+$(window).scroll(function() {
+	if ($(".navbar").offset().top > 50) {
+		$(".avatar-container").hide();
+	} else {
+		$(".navbar").show();
+	}
+});
+
 // Highlight the top nav as scrolling occurs
 $('body').scrollspy({
     target: '.navbar-fixed-top'
