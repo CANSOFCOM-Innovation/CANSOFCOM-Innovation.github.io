@@ -29,6 +29,7 @@ h6 {
 .avatar-container {
 	left: 50%;
 	position: absolute;
+	width: 100px;
 }
 
 .avatar-img-border {
