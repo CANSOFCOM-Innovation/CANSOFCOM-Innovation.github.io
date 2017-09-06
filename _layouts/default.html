@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-<html>
-	{% include head.html %}
+---
+layout: base
+---
 
-	<body>
-		{% include header.html %}
-		{% include about.html %}
-		{% include page_content.html %}
-		{% include contact.html %}
-		{% include footer.html %}
-		{% include js.html %}
-	</body>
-</html>
+<div class="intro-header"></div>
+
+<div role="main" class="container">
+  {{ content }}
+</div>

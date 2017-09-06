@@ -1,8 +1,0 @@
----
-layout: default
-img: ipad.png
-category: Services
-title: Hello World!
-description: |
----
- Photo credit:(http://join.deathtothestockphoto.com/)
