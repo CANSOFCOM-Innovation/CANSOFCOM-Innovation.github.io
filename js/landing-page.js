@@ -14,7 +14,7 @@ $(window).scroll(function() {
 	if ($(".navbar").offset().top > 50) {
 		$(".avatar-container").hide();
 	} else {
-		$(".navbar").show();
+		$(".avatar-container").show();
 	}
 });
 
