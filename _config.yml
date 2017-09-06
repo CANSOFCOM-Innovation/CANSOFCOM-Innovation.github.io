@@ -26,11 +26,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: search
-	text: Web
+  - title: web
     url: http://www.forces.gc.ca/en/operations-special-forces/about.page
   - title: github
-	text: GitHub
     url: https://github.com/CANSOFCOM-Innovation
 #  - title: linkedin
 #    url: 
