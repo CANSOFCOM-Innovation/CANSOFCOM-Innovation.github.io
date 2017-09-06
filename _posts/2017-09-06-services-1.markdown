@@ -27,32 +27,31 @@ The principle objective of automating the process is to reduce the person power 
 PRIZES
 
 A unique one of a kind CANSOFCOM experience, featuring:
-•	One-on-One discussions with CANSOFCOM Operators
-•	Hands-on with CANSOFCOM drone technology
-•	Student employment opportunity with CANSOFCOM
-•	Custom Shadow box with CANSOFCOM memorabilia
-•	CANSOFCOM and Canadian Armed Forces SWAG
++ One-on-One discussions with CANSOFCOM Operators
++ Hands-on with CANSOFCOM drone technology
++ Student employment opportunity with CANSOFCOM
++ Custom Shadow box with CANSOFCOM memorabilia
++ CANSOFCOM and Canadian Armed Forces SWAG
 
 IDEAS FOR CONSIDERATION/INSPIRATION 
 
-•	What kind of indicators and warnings exist to predict normalcy in patterns? (physical, pattern, movement, etc.)
-o	Indexing identified content and being able to view the results in a grid/matrix/graph format
++ What kind of indicators and warnings exist to predict normalcy in patterns? (physical, pattern, movement, etc.)
+	- Indexing identified content and being able to view the results in a grid/matrix/graph format
 
-•	Utilize Artificial Intelligence and Machine Learning tools to establish baseline and content identification such as:
-o	TensorFlow
-o	OpenCV
-o	Object detection models such as YOLO, SSD or Faster_RCNN
++ Utilize Artificial Intelligence and Machine Learning tools to establish baseline and content identification such as:
+	- TensorFlow
+	- OpenCV
+	- Object detection models such as YOLO, SSD or Faster_RCNN
 
-•	What other new and growing technologies can you use to interpret and manipulate large data sets?
++ What other new and growing technologies can you use to interpret and manipulate large data sets?
 
-•	Can you create automated workflows that will reduce need for human analysis?
++ Can you create automated workflows that will reduce need for human analysis?
+	- Can the user go back and replay a specific segment of video and verify the content analytics?
+	- Can the user compare different video footage including metadata and what content has been already analyzed?
 
-o	Can the user go back and replay a specific segment of video and verify the content analytics?
-o	Can the user compare different video footage including metadata and what content has been already analyzed?
-
-•	Easily scalable and deployable web frameworks for common/shared user access
-o	Produce visually appealing and meaningful interfaces that are user friendly to use/configure
-o	Mapping the route of identified people/vehicles on a Map
++ Easily scalable and deployable web frameworks for common/shared user access
+	- Produce visually appealing and meaningful interfaces that are user friendly to use/configure
+	- Mapping the route of identified people/vehicles on a Map
 
 SOLUTION
 
@@ -64,4 +63,4 @@ Solving this challenge will not just help CANSOFCOM in a Hostage Rescue situatio
 
 Solving this challenge makes a real life difference to Canadians. 
 
-WE WILL FIND A WAY
+### _WE WILL FIND A WAY_
