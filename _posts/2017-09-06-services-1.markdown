@@ -1,14 +1,10 @@
 ---
-layout: default
+layout: page
 img:
 category: Services
-title: Hello World!
+title: UNIVERSITY OF WATERLOO HACK THE NORTH 2017 CANSOFCOM CHALLENGE FRAMEWORK 
 description: |
 ---
-UNIVERSITY OF WATERLOO HACK THE NORTH 2017
-CANSOFCOM CHALLENGE FRAMEWORK 
-
-
 
 BACKGROUND
  
