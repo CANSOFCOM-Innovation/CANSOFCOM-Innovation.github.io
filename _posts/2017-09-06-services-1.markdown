@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 img:
 category: Services
 title: UNIVERSITY OF WATERLOO HACK THE NORTH 2017 CANSOFCOM CHALLENGE FRAMEWORK 
