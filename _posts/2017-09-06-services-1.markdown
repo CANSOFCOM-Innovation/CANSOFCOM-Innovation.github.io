@@ -5,26 +5,26 @@ category: Services
 title: UNIVERSITY OF WATERLOO HACK THE NORTH 2017 CANSOFCOM CHALLENGE FRAMEWORK 
 description: |
 ---
-
-BACKGROUND
+  
+### BACKGROUND
  
 CANSOFCOM personnel are tasked and trained to conduct a wide range of dangerous missions on behalf of the Government of Canada.  One of these high risk missions is Hostage Rescue. 
 
 One of the most important aspects of mission success in a Hostage Rescue operation is accurate and reliable intelligence; principally gathered from observation.  To ensure mission success, while reducing collateral damage, CANSOFCOM personnel continuously observe locations to determine patterns – an extremely time consuming and monotonous process.
-
-SCENARIO
+  
+### SCENARIO
 
 A Canadian family has been kidnapped and is being held hostage in a [House/Office/Warehouse/Farm]. An incident response team has been dispatched comprised of both local and federal police authorities. They have each deployed drones with various camera technologies (high resolution, electro-optics, infra-red, etc.) that provide a live/near-real time feed to the analysts on the ground. 
 
 The CANSOFCOM analysts have an important job of determining historical information of the hostage situation from previous footage from local security forces, in addition to live on-going footage of various drones. The analysts need to identify important key indicators (as described in the Challenge, below) that will help ensure a successful rescue operation by CANSOFCOM operators.
-
-CHALLENGE
+  
+### CHALLENGE
 
 CANSOFCOM seeks to automate the persistent monitoring process to discern patterns of personnel (both threat actors and innocent civilians), vehicles, distinguishing features (physical, pattern, movement, etc.), and to develop normalcy in patterns, which can be used to isolate deviations.  
 
 The principle objective of automating the process is to reduce the person power required for the analysis of surveillance footage; thus allowing CANSOFCOM personnel more time and space to perform more pertinent tasks related to the operation.
-
-PRIZES
+  
+### PRIZES
 
 A unique one of a kind CANSOFCOM experience, featuring:
 + One-on-One discussions with CANSOFCOM Operators
@@ -32,8 +32,8 @@ A unique one of a kind CANSOFCOM experience, featuring:
 + Student employment opportunity with CANSOFCOM
 + Custom Shadow box with CANSOFCOM memorabilia
 + CANSOFCOM and Canadian Armed Forces SWAG
-
-IDEAS FOR CONSIDERATION/INSPIRATION 
+  
+### IDEAS FOR CONSIDERATION/INSPIRATION 
 
 + What kind of indicators and warnings exist to predict normalcy in patterns? (physical, pattern, movement, etc.)
 	- Indexing identified content and being able to view the results in a grid/matrix/graph format
@@ -52,8 +52,8 @@ IDEAS FOR CONSIDERATION/INSPIRATION
 + Easily scalable and deployable web frameworks for common/shared user access
 	- Produce visually appealing and meaningful interfaces that are user friendly to use/configure
 	- Mapping the route of identified people/vehicles on a Map
-
-SOLUTION
+  
+### SOLUTION
 
 So what does solving this challenge accomplish? 
 
