@@ -23,13 +23,17 @@ h6 {
 
 body { background: black; }
 
+.row { 
+	margin-left: 0px;
+	margin-right: 0px;
+}
 .lead {
     font-size: 18px;
     font-weight: 400;
 }
 
 .avatar-container {
-	left: 46%;
+	left: 47.5%;
 	position: absolute;
 	width: 100px;
 }
