@@ -21,7 +21,8 @@ h6 {
     font-weight: 700;
 }
 
-/* body { background: black; } */
+body { background: black; }
+
 .lead {
     font-size: 18px;
     font-weight: 400;
