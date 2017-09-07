@@ -14,9 +14,7 @@ One of the most important aspects of mission success in a Hostage Rescue operati
   
 ### SCENARIO
 
-A Canadian family has been kidnapped and is being held hostage in a [House/Office/Warehouse/Farm]. An incident response team has been dispatched comprised of both local and federal police authorities. They have each deployed drones with various camera technologies (high resolution, electro-optics, infra-red, etc.) that provide a live/near-real time feed to the analysts on the ground. 
-
-The CANSOFCOM analysts have an important job of determining historical information of the hostage situation from previous footage from local security forces, in addition to live on-going footage of various drones. The analysts need to identify important key indicators (as described in the Challenge, below) that will help ensure a successful rescue operation by CANSOFCOM operators.
+TBD
   
 ### CHALLENGE
 
