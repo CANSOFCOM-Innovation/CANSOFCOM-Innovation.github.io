@@ -21,7 +21,7 @@ h6 {
     font-weight: 700;
 }
 
-body { background: black; }
+/* body { background: black; } */
 .lead {
     font-size: 18px;
     font-weight: 400;
@@ -47,17 +47,17 @@ body { background: black; }
     padding-bottom: 50px;
     text-align: center;
     color: #000000;
-    /*background: url(../img/intro-bg.jpg) no-repeat center center; COVER*/
-	background: #F5F5F5;*/
+    background: url(../img/title-logo.png) no-repeat center center; /*COVER*/
+	/*background: #F5F5F5;*/
     background-size: cover;
 }
 
 .intro-message {
     position: relative;
 	padding-top: 5%;
-	padding-bottom: 0;
-    /*padding-top: 20%;
-    padding-bottom: 20% COVER*/
+	/*padding-bottom: 0;*/
+    padding-top: 20%;
+    padding-bottom: 20% /*COVER*/
 }
 
 .intro-message > h1 {
