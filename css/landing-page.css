@@ -48,12 +48,11 @@ body { background: black; }
 }
 
 .intro-header {
-    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
     color: #000000;
-   /* background: url(../img/title-logo.png) no-repeat center center; /*COVER*/
-	background: #F5F5F5;
+	background: #FFFFFF;
     background-size: cover;
 }
 
@@ -61,8 +60,6 @@ body { background: black; }
     position: relative;
 	padding-top: 5%;
 	padding-bottom: 0;
-    /*padding-top: 20%;
-    padding-bottom: 20% COVER*/
 }
 
 .intro-message > h1 {
@@ -136,7 +133,6 @@ body { background: black; }
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    /*background: url(../img/banner-bg.png) no-repeat center center;*/
     background-size: cover;
 }
 
