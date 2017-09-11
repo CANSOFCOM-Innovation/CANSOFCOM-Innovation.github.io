@@ -48,12 +48,6 @@ body { background: black; }
 	display: block;
 }
 
-@media only screen and (min-width: 767px){
-	.avatar-container{
-		width:100px;
-	}
-}
-
 .intro-header {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -181,6 +175,13 @@ body { background: black; }
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
     }
+	
+	.avatar-container{
+		width:100px;
+	}
+	.video {
+		width:560px;
+	}
 }
 
 footer {
@@ -193,6 +194,10 @@ p.copyright {
     margin: 15px 0 0;
 }
 
+.video {
+	width: auto;
+	margin: 0 auto;
+}
 .video figure {
 	position: relative;
 	nowhitespace: afterproperty;
