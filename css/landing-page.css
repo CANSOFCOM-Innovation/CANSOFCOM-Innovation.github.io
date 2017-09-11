@@ -35,7 +35,7 @@ body { background: black; }
 .avatar-container {
 	left: 50%;
 	position: absolute;
-	width: 100px;
+	width: 50px;
 }
 
 .avatar-img-border {
@@ -50,7 +50,7 @@ body { background: black; }
 
 @media only screen and (min-width: 767px){
 	.avatar-container{
-		width:50px;
+		width:100px;
 	}
 }
 
