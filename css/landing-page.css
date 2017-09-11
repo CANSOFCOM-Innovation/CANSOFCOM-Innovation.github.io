@@ -33,18 +33,25 @@ body { background: black; }
 }
 
 .avatar-container {
-	left: 47.5%;
+	left: 50%;
 	position: absolute;
 	width: 100px;
 }
 
 .avatar-img-border {
 	width: 100%;
+	margin-left:-50%;
 }
 
 .avatar-img {
 	width: 100%;
 	display: block;
+}
+
+@media only screen and (min-width: 767px){}
+	.avatar-container{
+		width:50px;
+	}
 }
 
 .intro-header {
@@ -186,7 +193,6 @@ p.copyright {
     margin: 15px 0 0;
 }
 
-/* responsive videos */
 .video figure {
 	position: relative;
 	nowhitespace: afterproperty;
@@ -196,9 +202,8 @@ p.copyright {
 }
 
 .video iframe, .video object, .video embed {
-	position: absolute;
+	position: relative;
 	top: 0;
 	left: 0;
 	width: 100%;
-	height: 100%;
 }
