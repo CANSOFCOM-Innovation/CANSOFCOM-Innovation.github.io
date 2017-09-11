@@ -35,13 +35,12 @@ body { background: black; }
 .avatar-container {
 	left: 50%;
 	position: absolute;
-	width: 50px;
+	width: 100px;
 }
 
 .avatar-img-border {
 	width: 100%;
 	margin-left:-50%;
-	margin-top:-50%;
 }
 
 .avatar-img {
@@ -178,11 +177,11 @@ body { background: black; }
     }
 	
 	.avatar-container{
-		width:100px;
+		width: 50px;
 	}
 	
 	.avatar-img-border {
-		margin-top: 0;
+		margin-top:-50%;
 	}
 	.video {
 		width:560px;
