@@ -37,14 +37,14 @@ A unique one of a kind CANSOFCOM experience, featuring:
 
 ### VIDEO FOOTAGE MATERIALS
 
-Video footage for the purposes of this CANSOFCOM hackathon challenge can be sourced from VIRAT. The VIRAT Video Dataset collection work is supported by Defense Advanced Research Projects Agency (DARPA).
+>Video footage for the purposes of this CANSOFCOM hackathon challenge can be sourced from VIRAT. The VIRAT Video Dataset collection work is supported by Defense Advanced Research Projects Agency (DARPA).
 
-+ The dataset is designed to be realistic, natural and challenging for video surveillance domains in terms of its resolution, background clutter, diversity in scenes, and human activity/event categories than existing action recognition datasets.
+>+ The dataset is designed to be realistic, natural and challenging for video surveillance domains in terms of its resolution, background clutter, diversity in scenes, and human activity/event categories than existing action recognition datasets.
 
-http://www.viratdata.org/
+>Please visit [http://www.viratdata.org/](http://www.viratdata.org/) to learn more.
 
-+ To browse and download content, visit https://data.kitware.com/#collection/56f56db28d777f753209ba9f/folder/56f57e748d777f753209bed6
-	- To use an API to access the content, read their documentation at https://data.kitware.com/api/v1
+>+ To browse and download content, visit [https://data.kitware.com/#collection/56f56db28d777f753209ba9f/folder/56f57e748d777f753209bed6](https://data.kitware.com/#collection/56f56db28d777f753209ba9f/folder/56f57e748d777f753209bed6)
+>	- To use an API to access the content, read their documentation at [https://data.kitware.com/api/v1](https://data.kitware.com/api/v1)
   
 ### IDEAS FOR CONSIDERATION/INSPIRATION 
 
