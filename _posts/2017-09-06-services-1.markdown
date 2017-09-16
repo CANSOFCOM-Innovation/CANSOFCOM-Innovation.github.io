@@ -35,6 +35,9 @@ A unique one of a kind CANSOFCOM experience, featuring:
 + Custom Shadow box with CANSOFCOM memorabilia
 + CANSOFCOM and Canadian Armed Forces SWAG
 
+### CANSOFCOM GETTING STARTED WITH COMPUTER VISION WORKSHOP
+[https://docs.google.com/presentation/d/e/2PACX-1vQJGBsJs2rkeTEQaiCXy--M5E3CetLxVUMHqkJ0aToVMEfcPnXXSYeCzDEr0F25xkN2L1MV5rtKitAW/pub?start=false&loop=false&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vQJGBsJs2rkeTEQaiCXy--M5E3CetLxVUMHqkJ0aToVMEfcPnXXSYeCzDEr0F25xkN2L1MV5rtKitAW/pub?start=false&loop=false&delayms=3000)
+
 ### VIDEO FOOTAGE MATERIALS
 
 Video footage for the purposes of this CANSOFCOM hackathon challenge can be sourced from VIRAT. The VIRAT Video Dataset collection work is supported by Defense Advanced Research Projects Agency (DARPA).
